@@ -3,7 +3,7 @@ import sys
 
 
 usage ="""
-python path_to_input_file path_to_output_file
+python run-sdpa.py path_to_input_file path_to_output_file
 """
 
 class SolverArgs:

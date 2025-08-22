@@ -208,3 +208,6 @@ __marimo__/
 
 # Ignore 
 CD/*
+/*.dat-s
+/*.csv
+/*.out
