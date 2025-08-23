@@ -211,3 +211,7 @@ CD/*
 /*.dat-s
 /*.csv
 /*.out
+sdpaformat.py 
+
+launch.json
+.vscode
